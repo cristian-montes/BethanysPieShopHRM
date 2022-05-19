@@ -41,39 +41,6 @@
         }
       },
       {
-        "HashCode": 2121684404,
-        "Kind": "Components.Component",
-        "Name": "BethanysPieShopHRM.App.Pages.Counter",
-        "AssemblyName": "BethanysPieShopHRM.App",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BethanysPieShopHRM.App.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": 689252581,
-        "Kind": "Components.Component",
-        "Name": "BethanysPieShopHRM.App.Pages.Counter",
-        "AssemblyName": "BethanysPieShopHRM.App",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BethanysPieShopHRM.App.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BethanysPieShopHRM.App.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1200141950,
         "Kind": "Components.Component",
         "Name": "BethanysPieShopHRM.App.Pages.FetchData",
@@ -140,6 +107,39 @@
         }
       },
       {
+        "HashCode": 2121684404,
+        "Kind": "Components.Component",
+        "Name": "BethanysPieShopHRM.App.Pages.Counter",
+        "AssemblyName": "BethanysPieShopHRM.App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BethanysPieShopHRM.App.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": 689252581,
+        "Kind": "Components.Component",
+        "Name": "BethanysPieShopHRM.App.Pages.Counter",
+        "AssemblyName": "BethanysPieShopHRM.App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BethanysPieShopHRM.App.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BethanysPieShopHRM.App.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1455220698,
         "Kind": "Components.Component",
         "Name": "BethanysPieShopHRM.App.Shared.SurveyPrompt",
@@ -189,6 +189,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BethanysPieShopHRM.App.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 167201522,
+        "Kind": "Components.Component",
+        "Name": "BethanysPieShopHRM.App.Shared.NavMenu",
+        "AssemblyName": "BethanysPieShopHRM.App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BethanysPieShopHRM.App.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": 1658858199,
+        "Kind": "Components.Component",
+        "Name": "BethanysPieShopHRM.App.Shared.NavMenu",
+        "AssemblyName": "BethanysPieShopHRM.App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BethanysPieShopHRM.App.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BethanysPieShopHRM.App.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -289,39 +322,6 @@
         }
       },
       {
-        "HashCode": 167201522,
-        "Kind": "Components.Component",
-        "Name": "BethanysPieShopHRM.App.Shared.NavMenu",
-        "AssemblyName": "BethanysPieShopHRM.App",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BethanysPieShopHRM.App.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": 1658858199,
-        "Kind": "Components.Component",
-        "Name": "BethanysPieShopHRM.App.Shared.NavMenu",
-        "AssemblyName": "BethanysPieShopHRM.App",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BethanysPieShopHRM.App.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BethanysPieShopHRM.App.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 182567106,
         "Kind": "Components.Component",
         "Name": "BethanysPieShopHRM.App.App",
@@ -351,6 +351,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BethanysPieShopHRM.App.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1029118097,
+        "Kind": "Components.Component",
+        "Name": "CICalc.Pages.Counter",
+        "AssemblyName": "BethanysPieShopHRM.App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "CICalc.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": -1339384220,
+        "Kind": "Components.Component",
+        "Name": "CICalc.Pages.Counter",
+        "AssemblyName": "BethanysPieShopHRM.App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CICalc.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "CICalc.Pages.Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
