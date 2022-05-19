@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\crmontes\\Documents\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj": {}
+    "C:\\Users\\crmontes\\Documents\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj": {}
   },
   "projects": {
-    "c:\\Users\\crmontes\\Documents\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj": {
+    "C:\\Users\\crmontes\\Documents\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\crmontes\\Documents\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj",
+        "projectUniqueName": "C:\\Users\\crmontes\\Documents\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj",
         "projectName": "BethanysPieShopHRM.App",
-        "projectPath": "c:\\Users\\crmontes\\Documents\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj",
+        "projectPath": "C:\\Users\\crmontes\\Documents\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj",
         "packagesPath": "C:\\Users\\crmontes\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\crmontes\\Documents\\BethanysPieShopHRM.App\\obj\\",
+        "outputPath": "C:\\Users\\crmontes\\Documents\\BethanysPieShopHRM.App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\crmontes\\AppData\\Roaming\\NuGet\\NuGet.Config"

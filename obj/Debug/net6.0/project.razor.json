@@ -8,35 +8,35 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 182567106,
+        "HashCode": 747204251,
         "Kind": "Components.Component",
-        "Name": "BethanysPieShopHRM.App.App",
+        "Name": "BethanysPieShopHRM.App.Pages.Index",
         "AssemblyName": "BethanysPieShopHRM.App",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BethanysPieShopHRM.App.App"
+          "Common.TypeName": "BethanysPieShopHRM.App.Pages.Index"
         }
       },
       {
-        "HashCode": 364686305,
+        "HashCode": -138149408,
         "Kind": "Components.Component",
-        "Name": "BethanysPieShopHRM.App.App",
+        "Name": "BethanysPieShopHRM.App.Pages.Index",
         "AssemblyName": "BethanysPieShopHRM.App",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BethanysPieShopHRM.App.App"
+            "TagName": "BethanysPieShopHRM.App.Pages.Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BethanysPieShopHRM.App.App",
+          "Common.TypeName": "BethanysPieShopHRM.App.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -107,35 +107,35 @@
         }
       },
       {
-        "HashCode": 747204251,
+        "HashCode": -460724998,
         "Kind": "Components.Component",
-        "Name": "BethanysPieShopHRM.App.Pages.Index",
+        "Name": "BethanysPieShopHRM.App.Pages.CompoundInterest",
         "AssemblyName": "BethanysPieShopHRM.App",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Index"
+            "TagName": "CompoundInterest"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BethanysPieShopHRM.App.Pages.Index"
+          "Common.TypeName": "BethanysPieShopHRM.App.Pages.CompoundInterest"
         }
       },
       {
-        "HashCode": -138149408,
+        "HashCode": -1647145733,
         "Kind": "Components.Component",
-        "Name": "BethanysPieShopHRM.App.Pages.Index",
+        "Name": "BethanysPieShopHRM.App.Pages.CompoundInterest",
         "AssemblyName": "BethanysPieShopHRM.App",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BethanysPieShopHRM.App.Pages.Index"
+            "TagName": "BethanysPieShopHRM.App.Pages.CompoundInterest"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BethanysPieShopHRM.App.Pages.Index",
+          "Common.TypeName": "BethanysPieShopHRM.App.Pages.CompoundInterest",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -318,6 +318,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BethanysPieShopHRM.App.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 182567106,
+        "Kind": "Components.Component",
+        "Name": "BethanysPieShopHRM.App.App",
+        "AssemblyName": "BethanysPieShopHRM.App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BethanysPieShopHRM.App.App"
+        }
+      },
+      {
+        "HashCode": 364686305,
+        "Kind": "Components.Component",
+        "Name": "BethanysPieShopHRM.App.App",
+        "AssemblyName": "BethanysPieShopHRM.App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BethanysPieShopHRM.App.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BethanysPieShopHRM.App.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13677,6 +13710,11 @@
       "FilePath": "c:\\Users\\crmontes\\Documents\\BethanysPieShopHRM.App\\_Imports.razor",
       "TargetPath": "_Imports.razor",
       "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "c:\\Users\\crmontes\\Documents\\BethanysPieShopHRM.App\\Pages\\CompoundInterest.razor",
+      "TargetPath": "Pages\\CompoundInterest.razor",
+      "FileKind": "component"
     }
   ],
   "SerializationFormat": "0.2"

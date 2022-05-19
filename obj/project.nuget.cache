@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z972Q3nMrY1UUiDNnQhURkauNpYjmZQyLCgIpny8WvTbrArN1c3zX6emdBviZY9UjuJsL+NiXNXlHxzsmow+RA==",
+  "dgSpecHash": "hJpWf1Ddw/KNR5fPXqoJesdwpTTcVrt0SQT+AUr4VyuESyJlHIL9A6CXgZ0Dm8Ks4T7XNg0akKvKevFSpt3Flw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\crmontes\\Documents\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj",
+  "projectFilePath": "C:\\Users\\crmontes\\Documents\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\crmontes\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.5\\microsoft.aspnetcore.authorization.6.0.5.nupkg.sha512",
     "C:\\Users\\crmontes\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.5\\microsoft.aspnetcore.components.6.0.5.nupkg.sha512",
