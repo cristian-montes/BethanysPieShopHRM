@@ -196,13 +196,13 @@
       "mscorlib.dll": "sha256-ghlJNtzzYlKIliGPuf0A0Yu6dmLycSx3F9uyeddFb\/g=",
       "netstandard.dll": "sha256-qpOz\/RBwhlIYfaE2GDEmjiproxkvSf2b9GeqHxvH+lg=",
       "System.Private.CoreLib.dll": "sha256-sfzSZ3YKC2rpF77TVOKLuPgQag93QXr9U4AUc9d\/LKA=",
-      "BethanysPieShopHRM.App.dll": "sha256-k6YxhU+R+yYmSJ61gyWrBdpufVXRhrTh\/mpkUP4HQ+E="
+      "BethanysPieShopHRM.App.dll": "sha256-eaRipLJDRpdImv0kEuyntKCUdoeZ7nFt0wk0zeO0mzk="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "BethanysPieShopHRM.App.pdb": "sha256-2kpU9n59fhfj148PwLgqJkuZ8UHtpXfeMwoU9svQSfA="
+      "BethanysPieShopHRM.App.pdb": "sha256-y6r5Z7dtWjgZvRbIkAvZ0PiG+oF7TSECLM1yuN9Aytg="
     },
     "runtime": {
       "dotnet.6.0.5.j0h8enkghs.js": "sha256-783uOt0jgblQfP6Yz5TJeuW2xxtl6UHZQPngZtCz79U=",
